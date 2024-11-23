@@ -1,3 +1,4 @@
+# Hey, I'm Timmy! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 <img height="" src="https://svg-banners.vercel.app/api?type=textBox&text1=Timmy%20Yung%F0%9F%9A%80&width=800&height=200"  />
 
 <h2>Techs I Use</h2>
