@@ -2,7 +2,7 @@
 <img height="" src="https://svg-banners.vercel.app/api?type=textBox&text1=Timmy%20Yung%F0%9F%9A%80&width=800&height=200"  />
 
 <h2>Techs I Use</h2>
-<div align="center>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="52" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="52" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="52" width="48" />
